@@ -3,12 +3,15 @@
     "id": "979866596386",
     "restype": "watchface",
     "name": "满屏数字",
-    "description": "极简数字表盘：时间数字 190 px，顶到屏幕圆角允许的上限；整屏只留时间、日期、星期、电量，以及底部两根同心弧（外弧步数、内弧电量）。息屏只显示时间，用 1/6 水平扫描线把点亮面积压到 5.5%，纯黑背景在 AMOLED 上不发光。同一个文件里含六套配色。\n已在小米手环 11 NFC 上实机验证安装与显示；小米手环 10 与 11 非 NFC 版未在真机上验证。\n安装需使用第三方工具（AstroBox），非小米官方商店。",
+    "description": "极简数字表盘：时间数字 190 px，顶到屏幕圆角允许的上限；整屏只留时间、日期、星期、电量，以及底部两根同心弧（外弧步数、内弧电量）。息屏只显示时间，用 1/6 水平扫描线把点亮面积压到 5.5%，纯黑背景在 AMOLED 上不发光。同一个文件里含六套配色。\n已在小米手环 11 NFC 上实机验证安装与显示；小米手环 10 与 11 非 NFC 版未在真机上验证。",
     "preview": [
-      "media/preview0.png",
-      "media/preview1.png",
-      "media/preview2.png",
-      "media/preview3.png"
+      "media/亮屏-Kanagawa.png",
+      "media/息屏.png",
+      "media/亮屏-Coral.png",
+      "media/亮屏-Icy.png",
+      "media/亮屏-Mono.png",
+      "media/亮屏-Nord.png",
+      "media/亮屏-OneDark.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
