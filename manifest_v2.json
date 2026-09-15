@@ -25,14 +25,20 @@
   "links": [],
   "downloads": {
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/full-screen-digits-v1.0.bin",
-      "versionCode": 1
+      "version": "1.0.1",
+      "file_name": "downloads/full-screen-digits-v1.0.1.bin",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "息屏显示增加日期与星期\n修复电量100%显示88%的bug"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/full-screen-digits-v1.0.bin",
-      "versionCode": 1
+      "version": "1.0.1",
+      "file_name": "downloads/full-screen-digits-v1.0.1.bin",
+      "versionCode": 2
     }
   },
   "ext": {}
