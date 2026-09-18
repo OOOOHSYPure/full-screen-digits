@@ -39,6 +39,21 @@
       "version": "1.0.1",
       "file_name": "downloads/full-screen-digits-v1.0.1.bin",
       "versionCode": 2
+    },
+    "xmb9": {
+      "version": "1.1",
+      "file_name": "downloads/full-screen-digits-band9-v1.1.0.bin",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.1",
+      "file_name": "downloads/full-screen-digits-v1.0.1.bin",
+      "versionCode": 2
+    },
+    "xmb10": {
+      "version": "1.0.1",
+      "file_name": "downloads/full-screen-digits-v1.0.1.bin",
+      "versionCode": 2
     }
   },
   "ext": {}
